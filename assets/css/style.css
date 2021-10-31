@@ -95,12 +95,14 @@ i {
 
 .select {
     color: white;
+   margin-top-top: 5px;
     border-bottom: solid 4px white;
 }
 
 section {
     width: 60%;
     height: 500px;
+    margin-left: 50px;
     position: relative;
     top: 100px;
     border: solid 1px blueviolet;
