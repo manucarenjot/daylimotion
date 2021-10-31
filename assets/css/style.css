@@ -95,7 +95,7 @@ i {
 
 .select {
     color: white;
-   margin-top-top: 5px;
+   margin-top: 5px;
     border-bottom: solid 4px white;
 }
 
@@ -106,4 +106,44 @@ section {
     position: relative;
     top: 100px;
     border: solid 1px blueviolet;
+}
+
+section a {
+    text-decoration-line: none;
+    color: black;
+    font-size: 0.8em;
+}
+
+.art1 {
+    margin-top: 15px;
+    width: 60%;
+    height: 60%;
+    background-image: url(../img/Capture.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.contenu {
+    margin-left: 100%;
+    width: 60%;
+    height: 150px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.contenu h1 {
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.contenu h6 {
+    color: #6b6b6b;
+}
+
+
+.contenu p {
+    display: inline;
+    font-size: 0.8em;
+    margin-left: 5px;
+    color: #6b6b6b;
 }
