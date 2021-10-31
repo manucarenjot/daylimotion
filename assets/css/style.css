@@ -100,5 +100,8 @@ i {
 
 section {
     width: 60%;
-
+    height: 500px;
+    position: relative;
+    top: 100px;
+    border: solid 1px blueviolet;
 }
