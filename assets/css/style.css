@@ -116,7 +116,7 @@ section a {
 .art1 {
     margin-top: 15px;
     width: 60%;
-    height: 45%;
+    height: 430px;
     background-image: url(../img/Capture.png);
     background-repeat: no-repeat;
     background-size: cover;
@@ -150,7 +150,7 @@ section a {
 .art2 {
     margin-top: 30px;
     width: 60%;
-    height: 45%;
+    height: 430px;
     background-image: url(../img/Capture2.png);
     background-repeat: no-repeat;
     background-size: cover;
@@ -204,7 +204,7 @@ aside {
 
 .video {
     width: 45%;
-    height: 70%;
+    height: 150px;
     background-image: url(../img/Capture3.png);
     background-size: cover;
 }
@@ -234,7 +234,7 @@ h4 {
 .video2 {
     margin-top: 30px;
     width: 45%;
-    height: 70%;
+    height: 150px;
     background-image: url(../img/Capture4.png);
     background-size: cover;
 }
@@ -260,7 +260,7 @@ h4 {
 .video3 {
     margin-top: 30px;
     width: 45%;
-    height: 70%;
+    height: 150px;
     background-image: url(../img/Capture5.png);
     background-size: cover;
 }
