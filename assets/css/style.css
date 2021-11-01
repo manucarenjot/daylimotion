@@ -105,7 +105,6 @@ section {
     margin-left: 50px;
     position: relative;
     top: 90px;
-    border: solid 1px blueviolet;
 }
 
 section a {
@@ -182,11 +181,120 @@ section a {
     color: #6b6b6b;
 }
 
+.art1:hover {
+    cursor: pointer;
+}
+.art2:hover {
+    cursor: pointer;
+}
+
 aside {
-    width: 35%;
+    width: 33%;
     height: 600px;
-    border: solid 1px black;
     float: right;
     margin-top: 90px;
 
+}
+
+
+.aside-contenu {
+    width: 100%;
+    height: 150px;
+}
+
+.video {
+    width: 45%;
+    height: 70%;
+    background-image: url(../img/Capture3.png);
+    background-size: cover;
+}
+
+h4 {
+    width: 60%;
+    margin-left: 105%;
+}
+
+.video a {
+    margin-top: 5px;
+    width: 60%;
+    margin-left: 110%;
+    text-decoration-line: none;
+    color: black;
+    font-size: 0.8em;
+}
+
+.video p {
+    margin-top: 5px;
+    width: 60%;
+    margin-left: 105%;
+    color: #6b6b6b;
+    font-size: 0.8em;
+}
+
+.video2 {
+    margin-top: 30px;
+    width: 45%;
+    height: 70%;
+    background-image: url(../img/Capture4.png);
+    background-size: cover;
+}
+
+.video2 a {
+    margin-top: 5px;
+    display: block;
+    width: 100%;
+    margin-left: 110%;
+    text-decoration-line: none;
+    color: black;
+    font-size: 0.8em;
+}
+
+.video2 p {
+    margin-top: 5px;
+    width: 60%;
+    margin-left: 105%;
+    color: #6b6b6b;
+    font-size: 0.8em;
+}
+
+.video3 {
+    margin-top: 30px;
+    width: 45%;
+    height: 70%;
+    background-image: url(../img/Capture5.png);
+    background-size: cover;
+}
+
+.video:hover {
+    cursor: pointer;
+}
+
+.video2:hover {
+    cursor: pointer;
+}
+
+.video3:hover {
+    cursor: pointer;
+}
+
+.video3 a {
+    margin-top: 5px;
+    display: block;
+    width: 100%;
+    margin-left: 110%;
+    text-decoration-line: none;
+    color: black;
+    font-size: 0.8em;
+}
+
+.video3 p {
+    margin-top: 5px;
+    width: 60%;
+    margin-left: 105%;
+    color: #6b6b6b;
+    font-size: 0.8em;
+}
+
+aside p {
+    color: #6b6b6b;
 }
